@@ -1,0 +1,28 @@
+[
+    {
+        "date_joined": "2019-10-26 21:07:58",
+        "email": "oyilmaz1630@gmail.com",
+        "first_name": "Onurcan",
+        "id": 1,
+        "is_active": 1,
+        "is_staff": 1,
+        "is_superuser": 1,
+        "last_login": "2019-10-26 21:43:20.711432",
+        "last_name": "Yılmaz",
+        "password": "pbkdf2_sha256$150000$1c92TOB6soiy$eRwLJnen6E46aA4wH/mBzkBq97xqxhOzToweSpBbkjE=",
+        "username": "onur"
+    },
+    {
+        "date_joined": "2019-10-26 21:11:47",
+        "email": "",
+        "first_name": "",
+        "id": 2,
+        "is_active": 1,
+        "is_staff": 1,
+        "is_superuser": 0,
+        "last_login": "2019-10-26 21:34:41",
+        "last_name": "",
+        "password": "pbkdf2_sha256$150000$dSM42tFkqXU2$QMQlpgnbLweTwBSOPydrl2NbYVclckbzKUgnMxqOjLA=",
+        "username": "berke"
+    }
+]
